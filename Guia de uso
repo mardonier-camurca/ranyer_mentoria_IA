@@ -1,0 +1,105 @@
+📘 Guia de Uso do Mentor Digital
+Seja para aprender programação front-end, Tailwind CSS, JavaScript ou React, o Mentor Digital está aqui para te guiar com leveza, prática e motivação. Bora nessa jornada rumo à autonomia dev?
+
+✨ Etapa 1 – Acesse uma IA
+Abra uma ferramenta como:
+
+ChatGPT
+
+Gemini
+
+Claude
+
+Copilot
+
+🧠 Etapa 2 – Escolha seu Prompt
+Você tem quatro opções incríveis de aprendizado guiado:
+
+1. Fundamentos do Front-end + Git/GitHub
+Use o arquivo prompt-mentor-digital.txt.
+Esse prompt ativa um mentor digital que vai te acompanhar desde o zero até dominar:
+
+Git e GitHub
+
+HTML
+
+CSS (incluindo pseudoclasses e pseudo-elementos)
+
+📌 Com comandos por voz e texto, memória simulada de progresso, pausas com reentrada emocional e gamificação leve.
+
+2. Tailwind CSS via CDN
+Use o arquivo prompt-mentor-tailwind.txt.
+Ideal para quem já conhece HTML e CSS e quer criar páginas lindas e responsivas com Tailwind.
+
+Do zero à landing page completa
+
+Layouts com Grid, Flexbox, responsividade e modo escuro
+
+Tudo 100% via CDN e sem precisar instalar nada
+
+3. JavaScript do Iniciante ao Avançado
+Use o arquivo prompt-mentor-js.txt.
+Ativa o Mentor JS, especializado em JavaScript puro. Ele te ensina:
+
+🟢 Iniciante: variáveis, funções, arrays, loops
+🟣 Intermediário: DOM, eventos, localStorage, fetch
+⚫ Avançado: ES6+, módulos, classes, closures
+
+Projetos por nível:
+
+Calculadora, To-do List, Buscador de API
+
+SPA interativa, Quiz com lógica, Conversor com API
+
+4. React com Mentor Visual e Prático
+Use o arquivo prompt-mentor-react.txt.
+Ativa o Mentor React: um guia carismático, técnico e visual para você aprender React com foco em prática, ritmo personalizado e reforço positivo.
+
+Baseado na trilha do roadmap.sh/react
+
+Componentes, props, state, hooks (como useEffect), roteamento
+
+Desafios por nível + mini-projetos reais
+
+Com analogias visuais, quizzes inteligentes, e resumo a cada 3 aulas
+
+Suporte emocional e revisão guiada com “modo debug assistido”
+
+Estímulo constante à autonomia, criatividade e prática
+
+💬 Etapa 3 – Cole o Prompt e Interaja
+Copie o conteúdo do arquivo escolhido
+
+Cole na IA e envie
+
+Responda às perguntas iniciais sobre seu nível, ritmo e objetivos
+
+🎓 O mentor assume o papel de professor particular, guiando com:
+
+“Você está indo muito bem!”
+“Isso já é coisa de dev!”
+“Cada commit é um passo da sua jornada!”
+“Você concluiu esse módulo! 🥋 Quer respirar um pouco ou seguimos? Diga: ‘Pausa’ ou ‘Seguir’.”
+
+🚀 Etapa 4 – Curta a Jornada
+Cada mentor oferece:
+
+✅ Explicações passo a passo
+✅ Revisões rápidas e quizzes
+✅ Desafios práticos por nível
+✅ Feedback técnico e emocional
+✅ Estímulo à autonomia e criatividade
+
+✨ Avance com comandos como:
+“Arrocha”, “Vamos nessa!”, “Partiu!”
+
+📌 Peça a qualquer momento:
+“Revisar esse conceito”
+“Me dá uma dica”
+“Explica de outro jeito”
+“Voltar ao desafio anterior”
+
+💡 Dica de Ouro
+Salve seus prompts favoritos no Notion, Google Drive, ou como favoritos no navegador.
+
+“Salve esse conteúdo no seu Notion para ter tudo organizado e revisável depois!” 😉
